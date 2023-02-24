@@ -1,6 +1,6 @@
-# Teste automatizado no site da Kabum
+# Teste automatizado de frontend em Ruby
 
-Este repositório contém algumas checagens básicas que serão utilizadas para validar o fluxo crítico de um cliente que acessa o site da https://kabum.com.br, escolhe um produto e adiciona no carrinho.
+Este projeto tem o intuito de aprender a configurar e desenvolver automação de frontend em Ruby com framework Selenium. Neste repositório contém algumas checagens básicas que serão utilizadas para validar o fluxo crítico de um cliente que acessa o site da https://kabum.com.br, escolhe um produto e adiciona no carrinho. Foram incluidos, testes de API e bibliotecas de outros projetos
 
 ## Configurações e instalacoes iniciais
 
@@ -18,11 +18,12 @@ Faça o download deste repositório.
 
 ### Instale o Google Chrome
 
-A instalação do Google Chrome pode ser realizada através do site https://www.google.com/intl/pt-BR/chrome/ ou por linha de comando:
+A instalação do Google Chrome pode ser realizada através do [site](https://www.google.com/intl/pt-BR/chrome/) ou por linha de comando:
 
-`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O chrome.deb`
-
-`apt-get install ./google-chrome-stable_current_amd64.deb`
+```sh
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O chrome.deb
+apt-get install ./google-chrome-stable_current_amd64.deb
+```
 
 ### Instale o Ruby
 
@@ -34,9 +35,10 @@ Para instalar o Ruby, basta utilizar o comando:
 
 Faça a instalação dessas bibliotecas utilizando os comandos:
 
-`gem install bundler`
-
-`bundle install`
+```sh
+gem install bundler
+bundle install
+```
 
 Note que elas foram especificadas no arquivo 'Gemfile'.
 
@@ -49,4 +51,3 @@ Para rodar o teste, foi criado a seguinte tag `cucumber --tags @FluxoCritico`. D
 A escrita dos passos do arquivo kabum.feature foi feita em Português, porém, por padrão, eles são feitos em Inglês e, para funcionar corretamente, note que o comando `#language: pt` foi inserido no arquivo.
 
 O código foi comentado para melhor entendimento do que está sendo checado em cada etapa.
->>>>>>> 7c7407f (realocando projeto Ruby)

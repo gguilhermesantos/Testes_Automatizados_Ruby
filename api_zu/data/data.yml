@@ -1,0 +1,24 @@
+prod:
+  url_api: https://a/
+  tempo: 60
+
+qa:
+  url_api: https://a/
+  tempo: 60
+
+
+  
+endpoint:
+  positive_identification: positiveidentification
+  name_identification: nameidentification
+  lista_certificado: listacertificado
+  lista_coberturas: listacoberturas
+  consulta_certificado: consultacertificado
+  lista_sinistro: listasinistro
+  certificate_cause: certificatecauses
+  tecdocrequired: tecdocrequired
+  document: documents
+  validateclaims: validateclaims
+  userinsured: userinsured
+  providers: providers
+  depara: depara

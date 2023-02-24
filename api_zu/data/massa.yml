@@ -1,0 +1,14 @@
+cpf_valido: 023635432121
+cpf_invalido: 0218024584aa
+nome_valido: "KENZO ADACHI"
+nome_invalido: "MAR1A JOS3"
+id_cobertura_invalido: 42*7
+id_certificado_invalido: 2622*07602
+lista: 0
+lista_invalida: ''
+id_segurado_invalido: 27592*8543
+at_invalido: ''
+
+
+
+#wpp: 1 

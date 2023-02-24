@@ -1,6 +1,15 @@
 source "https://rubygems.org"
 
 gem 'capybara'
-gem 'cucumber'
-gem 'rspec'
-gem 'selenium-webdriver'
+gem 'cucumber',                '3.1.2'
+gem 'faker'
+gem 'ffaker'
+gem 'json'
+gem 'poltergeist',              '1.15.0'
+gem 'pry',                      '0.11.3'
+gem 'report_builder'
+gem 'reportportal', git: 'https://github.com/reportportal/agent-ruby.git'
+gem 'rubytree', git: 'https://github.com/razboev/RubyTree'
+gem 'rspec',                    '3.6.0'
+gem 'screen-recorder'
+gem 'selenium-webdriver',       '3.4.0'

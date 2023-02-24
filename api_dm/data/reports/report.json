@@ -1,0 +1,298 @@
+[
+  {
+    "uri": "features/request.feature",
+    "id": "validacoes-de-request-nova-pac-whatsapp",
+    "keyword": "Funcionalidade",
+    "name": "validacoes de request nova pac whatsapp",
+    "description": "",
+    "line": 2,
+    "elements": [
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;2",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 12,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "comments": [
+          {
+            "value": "# |\"1\"       |\"nil\"|",
+            "line": 11
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"2\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 9343628434
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Este cliente já possui um cartão em análise na loja LOJA DE TESTE desta mesma Unidade/Grupo. Favor aguardar o resultado final.\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 108009
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;3",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 13,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"3\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 710419097
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Este cliente já possui um cartão em análise na loja LOJA DE TESTE desta mesma Unidade/Grupo. Favor aguardar o resultado final.\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 44097
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;4",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 14,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"44\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 741039348
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Este cliente já possui um cartão em análise na loja LOJA DE TESTE desta mesma Unidade/Grupo. Favor aguardar o resultado final.\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 43844
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;5",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 15,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"45\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 709556904
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Este cliente já possui um cartão em análise na loja LOJA DE TESTE desta mesma Unidade/Grupo. Favor aguardar o resultado final.\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 95179
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;6",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 16,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"5\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 999582505
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Esta PAC não está permitida para alteração!\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 97508
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;7",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 17,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"9\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 678999414
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Esta PAC não está permitida para alteração!\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 221579
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoes-de-request-nova-pac-whatsapp;cenario-esquema-do-cenario;;8",
+        "keyword": "Esquema do Cenario",
+        "name": "cenario esquema do cenario",
+        "description": "",
+        "line": 18,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@request",
+            "line": 4
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Dado ",
+            "name": "que irei validar os retornos das apis com os \"8\"",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 707769266
+            }
+          },
+          {
+            "keyword": "Entao ",
+            "name": "devera retornar na api a resposta \"Este cliente já possui um cartão aprovado na loja FARMACONDE - LJ 123 desta mesma Unidade/Grupo.\"",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/step_definition.rb:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 88118
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

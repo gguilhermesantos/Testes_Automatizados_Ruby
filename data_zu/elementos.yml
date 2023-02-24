@@ -1,0 +1,27 @@
+################ Web ####################
+
+txt_whats: "div[class='msg']"
+label_option: "div[class='ic-option']"
+box_text: "input[title='Digite uma mensagem']"
+btn_enviar: "button[class='btn-send']"
+title_text: "div[class='ic-select-header']"
+btn_pesquisa: "a[class='qr-btn']"
+title_pergunta: "div[class='widget-header']"
+btn_quest: "div[class='widget-action']"
+list_option: "div[class='list-option']"
+btn_enviar_menu: "button[class='btn btn-fullscreen']"
+titulo_vistoria: "h1[class='titulo']"
+logo_zurich: "div[class='col-xs-12 col-sm-12 no-padding']"
+titulo_apolice: "div[class='policy-title']"
+desc_apolice: "div[class='policy-description']"
+tabela_processo: "table-status"
+opcao_autocomplete: "div[class='hint']"
+
+################# Whats ###################
+
+conversa_whats: div[class='_1LkpH copyable-area']
+menu_whats: div[class='_3j8Pd']
+limpar_chat: div[title='Clear messages']
+btn_clear: div[class='_2eK7W _3PQ7V']
+txt_whats1: div[data-tab='1']
+btn_enviar1: span[data-testid='send']

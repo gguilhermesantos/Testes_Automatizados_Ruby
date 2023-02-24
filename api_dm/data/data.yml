@@ -1,0 +1,32 @@
+staging:
+  url_api: https://a/
+  tempo: 60
+
+dev:
+  url_api: https://a/
+  tempo: 60
+
+hom:
+  url_api: https://a/
+  tempo: 60
+
+prod:
+  url_api: https://a/
+  tempo: 60
+
+endpoint:
+  estabelecimento_proximo: GetEstabelecimentosMaisProximos 
+  dados_estabelecimento: GetDadosEstabelecimento
+  consulta_cep: ConsultarCEP
+  consulta_cidades: ConsultarCidades
+  vencimentos_datas: VencimentosDatas
+  carregar_endereco: CarregarEndereco
+  request_nova_pac_whats: RequestNovaPacWhatsApp
+  atualiza_dado_pac: AtualizaDadosPAC
+  recebe_documento_cliente: RecebeDocumentoDoCliente
+  finalizar_pac: FinalizaPac
+  verify_document_url: VerifyDocumentUrl
+  verify_document: VerifyDocument
+  find_cep: findCep
+  estabelecimento_telefone: GetEstabelecimentoTelefone
+  busca_loja: buscaloja

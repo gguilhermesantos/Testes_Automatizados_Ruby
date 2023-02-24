@@ -1,0 +1,4 @@
+--.gitignore
+--data/reports/*
+--ui/data/local_storage.yml
+--data/reports/report.json
